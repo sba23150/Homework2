@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author User
+ * @author Tatiana
  */
 public class Homework2 {
 
