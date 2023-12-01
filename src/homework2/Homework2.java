@@ -61,6 +61,10 @@ Reminder: modulus  % in Java. A number is EVEN if number % 2 equals 0*/
         else{
             System.out.println(num1+" is an ODD number.");
         }
+        
+        //sum nun1 + num2
+        int sum = num1 + num2;
+        System.out.println("The sum of "+ num1 + " + " + num2 + " is " + sum);
     }
     
 }
